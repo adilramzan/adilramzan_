@@ -1,4 +1,4 @@
-# adilramzan_
+# adilramzan
 # 💫 About Me:
 Enthusiastic Computer Science student with a strong foundation in C++, Python, OOP, Data Structures, Database<br>Management, SQL, Generative AI, Cloud Computing, App development and Web Development. Eager to learn new skills and tools by joining your company.
 
